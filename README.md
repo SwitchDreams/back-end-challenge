@@ -41,6 +41,10 @@ A aplicação deve ser em Rails API e deve-se utilizar postman, insomnia, swagge
 Diferenciais:
 Para os testes automatizados recomenda-se a utilização do RSpec e para padronização de código (linter) é recomendável a utilização do rubocop.
 
+## Entrega
+
+Deve ser enviado um email constando o repositório github em que o projeto foi desenvolvido assim como o link do deploy feito no heroku
+
 ## Avaliação
 
 Avaliaremos as seguintes habilidades
