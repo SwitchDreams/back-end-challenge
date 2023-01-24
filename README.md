@@ -32,7 +32,7 @@ Um usuário também pode estar matriculado em diversas aulas e uma aula pode ter
 
 ## Requisitos
 
-Para iniciar o desafio, crie um repositório pessoal e inicie seu projeto rails nele. Altera o readme com todas as informações que você julgar pertinente para o desafio. Para entregar a sua implementação, você deve criar um deploy no [heroku](https://www.heroku.com/) (explicite no readme a url da deploy da API)
+Para iniciar o desafio, crie um repositório pessoal e inicie seu projeto rails nele. Altera o readme com todas as informações que você julgar pertinente para o desafio. Para entregar a sua implementação, você deve criar um deploy no [heroku](https://www.heroku.com/) ou servidor de sua preferência (explicite no readme a url da deploy da API)
 
 Para padronizar o desafio você deve usar o Postgres como banco de dados (exigido pelo heroku) e a versão do Rails pode ser a 6.x ou 7.x com preferência para a 7. Sugerimos também que utilize a versão 2.7.x ou 3.x do ruby, para que você possa usar as features mais novas da linguagem.
 
